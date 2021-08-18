@@ -1,0 +1,101 @@
+body{
+    background-color:hsl(0, 0%, 95%);
+    color: hsl(0, 0%, 95%);
+    align-items: center;
+    margin: 200px auto;
+    margin-left:125px ;
+    margin-right: 125px;
+    text-align:center ;
+}
+
+.Sedan-container{
+    background-color: #E28525;
+    float: left;
+    padding-left: 10px;
+    border-image: 25%;
+    width: 350px;
+}
+
+.Sedan-learn{
+    background-color: #E28525;
+    color: hsl(0, 0%, 95%);
+    border-radius: 20px;
+    width: 100px;
+    height: 30px;
+    margin: 20px auto;
+    place-items: center;
+
+}
+
+.sedans{
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 700;
+    padding-top: 5px;
+    padding-bottom: 0px;
+}
+
+.sedan-sentence{
+    text-decoration: none;
+    font-weight: 400;
+}
+
+.container{
+    border: thin;
+    border-width: 700p;
+}
+
+.Suvs-container{
+    background-color: hsl(184, 100%, 22%);
+    float: left;
+    padding-left: 10px;
+    border-image: 25%;
+
+    margin: auto;
+    width: 350px;
+
+ 
+}
+
+.suvs{
+    text-transform: uppercase;
+    font-weight:700 ;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.Suv-learn{
+    background-color:hsl(184, 100%, 22%) ;
+    color: hsl(0, 0%, 95%);
+    border-radius: 20px;
+    width: 100px;
+    height: 30px;
+    margin: 10px auto;
+}
+
+.Luxury-container{
+    background-color:  hsl(179, 100%, 13%);
+    padding-left: 40px;
+    padding-left: 20px;   
+ 
+}
+
+.luxurylearnmore{
+    background-color: hsl(184, 100%, 22%) ;
+    color: hsl(0, 0%, 95%);
+    border-radius: 20px;
+    height: 30px;
+    width: 100px;
+    margin: 10px auto;
+}
+
+.whole{
+    border-radius: 30px;
+}
+
+.lux{
+    text-transform: uppercase;
+    font-weight:700 ;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
